@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\bin\Debug\netcoreapp3.1\Class constructor,inheritance tasks.exe
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\bin\Debug\netcoreapp3.1\Class constructor,inheritance tasks.deps.json
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\bin\Debug\netcoreapp3.1\Class constructor,inheritance tasks.runtimeconfig.json
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\bin\Debug\netcoreapp3.1\Class constructor,inheritance tasks.runtimeconfig.dev.json
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\bin\Debug\netcoreapp3.1\Class constructor,inheritance tasks.dll
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\bin\Debug\netcoreapp3.1\Class constructor,inheritance tasks.pdb
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.AssemblyInfo.cs
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.dll
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.pdb
+C:\Users\User\source\repos\Class constructor,inheritance tasks\Class constructor,inheritance tasks\obj\Debug\netcoreapp3.1\Class constructor,inheritance tasks.genruntimeconfig.cache
